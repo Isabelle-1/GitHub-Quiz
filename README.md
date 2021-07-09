@@ -19,4 +19,7 @@ If it is Ofego reading all this,
 2. I hope you feel better soon :)
 So this is my third commit :D
 
+Nevermind, im not entirely sure how to/if you can get images/videos onto VsCode, so Im going to just try and add them to the repository without putting them in here. 
+This is my fourth commit
+
 ​​​​​​​
